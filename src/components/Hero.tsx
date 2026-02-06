@@ -73,7 +73,7 @@ export function Hero() {
           >
             <button
               onClick={() => scrollToSection("projects")}
-              className="group px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg hover:shadow-lg hover:shadow-cyan-500/50 transition-all duration-300 flex items-center gap-2"
+              className="group px-8 py-4 bg-gradient-to-r from-cyan-600 to-blue-500 rounded-lg hover:shadow-lg hover:shadow-cyan-500/50 transition-all duration-300 flex items-center gap-2"
             >
               <span className="text-white" style={{ fontWeight: 600 }}>View Projects</span>
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
