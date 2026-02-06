@@ -49,7 +49,7 @@ export function Skills() {
           {/* Section Title */}
           <div className="flex items-center gap-4 mb-16">
             <div className="h-px flex-1 bg-gradient-to-r from-transparent to-purple-500/50" />
-            <h2 className="text-4xl text-purple-400" style={{ fontWeight: 600 }}>Skills & Technologies</h2>
+            <h2 className="text-4xl text-purple-500" style={{ fontWeight: 600 }}>Skills & Technologies</h2>
             <div className="h-px flex-1 bg-gradient-to-l from-transparent to-purple-500/50" />
           </div>
 
