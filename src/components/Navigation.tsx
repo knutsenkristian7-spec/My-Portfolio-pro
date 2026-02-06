@@ -30,7 +30,6 @@ export function Navigation() {
     { id: "skills", label: "Skills" },
     { id: "experience", label: "Experience" },
     { id: "projects", label: "Projects" },
-    { id: "interests", label: "Interests" },
     { id: "contact", label: "Contact" },
   ];
 
