@@ -44,7 +44,7 @@ export function About() {
               className="p-6 rounded-xl border border-white/10 bg-white/5 backdrop-blur-sm hover:border-cyan-500/30 transition-all duration-300"
             >
               <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-purple-500/20 to-pink-500/20 flex items-center justify-center mb-4">
-                <Code2 className="w-6 h-6 text-purple-500" />
+                <Code2 className="w-6 h-6 text-purple-400" />
               </div>
               <h3 className="text-xl mb-2 text-white" style={{ fontWeight: 600 }}>Experience</h3>
               <p className="text-white/60">Senior Developer</p>
