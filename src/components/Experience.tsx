@@ -15,10 +15,11 @@ export function Experience() {
       role: "Full Stack & Blockchain Developer",
       period: "2023 - Present",
       highlights: [
-        "Architected and deployed multi-agent AI platform with real-time collaboration",
-        "Built blockchain integrations for decentralized data verification",
-        "Implemented scalable microservices architecture using Node.js and Golang",
-        "Developed responsive React/Next.js frontend with advanced state management",
+        "Developed zuvu.ai that provides access to 250+ AI models and agents, featuring multi-agent squads, intelligent task routing, real-time collaborative chat, and document integration to streamline workflows and reduce costs.",
+        "Developed the websites makeitaquote, makeitasticker, and socialtensor using React.js and Tailwind CSS.",
+        "Integrated a wallet into the NFTInpect website using web3.js.",
+        "Created three bots for Twitter, Discord, and Telegram related to MIAQ and MIAS using Python",
+        "Participated in the socialtensor subnet based NicheImage subnet with bittensor.",
       ],
     },
     {
