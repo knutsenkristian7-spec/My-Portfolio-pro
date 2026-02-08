@@ -37,7 +37,7 @@ export function Experience() {
     {
       company: "Freeblock",
       role: "Full Stack Developer",
-      period: "2021 - 2022",
+      period: "2019 - 2020",
       highlights: [
         "Built and maintained a dashboard billing page that illustrates the usage of Unity game services with sophisticated graphs and charts.",
         "Architected and built back-end APIs to monitor usage events with ETL tools and trigger notifications at certain conditions.",
@@ -49,12 +49,12 @@ export function Experience() {
     {
       company: "ilink",
       role: "Full Stack Developer",
-      period: "2020 - 2021",
+      period: "2018 - 2019",
       highlights: [
-        "Developed enterprise web applications using React, Node.js, and PostgreSQL",
-        "Created reusable component libraries and design systems",
-        "Implemented CI/CD pipelines and automated testing frameworks",
-        "Mentored junior developers on best practices and code quality",
+        "Built automation solutions for data ETL, logins, form submission, and other repetitive actions for 100+ different sources.",
+        "Built dashboards for clients to interact with and view the progress of large-scale data scraping and API consumption tasks.",
+        "Reverse-engineered hundreds of hidden website APIs to extract desired data for clients.",
+        "Worked as a full-stack developer in UI components as well as back-end and API endpoints.",
       ],
     },
   ];
