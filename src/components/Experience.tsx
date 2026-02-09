@@ -39,10 +39,11 @@ export function Experience() {
       role: "Full Stack Developer",
       period: "2021 - 2022",
       highlights: [
-        "Built full-stack Web3 applications using React and Ethereum blockchain",
-        "Implemented CosmWasm smart contracts for Cosmos ecosystem dApps",
-        "Designed RESTful APIs and GraphQL endpoints for blockchain data",
-        "Collaborated with cross-functional teams across multiple time zones",
+        "Built and maintained a dashboard billing page that illustrates the usage of Unity game services with sophisticated graphs and charts.",
+        "Architected and built back-end APIs to monitor usage events with ETL tools and trigger notifications at certain conditions.",
+        "Developed a Web 3.0 real-time bidding auction app that helps artists to auction their art.",
+        "Created the API and UI of a media hosting app from scratch to help artists easily manage their art and collections.",
+        "Participated in smart contract development."
       ],
     },
     {
