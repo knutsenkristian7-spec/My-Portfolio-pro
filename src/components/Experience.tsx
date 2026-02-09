@@ -28,9 +28,9 @@ export function Experience() {
       period: "2021 - 2024",
       highlights: [
         "Contributed to the smart contract Solidity smart contract behind the NFT marketplace featured createNFT, listNFT, cancelListing, addToCart, burn, and other relevant functions.",
-        "Architected feature-rich gaming, rewards, and a pack NFT project for a major sports league. Developed a rewards staking feature for our NFT stack.",
-        "Created a generic smart contracts viewer feature on the Commonwealth DAO Platform. The feature allowed users to add and view any contract on the Ethereum Networks using just the address and ABI. It also allowed users to call the contract functions.",
-        "Maintained and developed upon the entire Solidity stack.",
+        "I have some experience of CosmWasm smart contracts in Rust and Cosmos SDK development in Go.",
+        "And build and deploy dApps using React, TypeScript, and CosmJS to connect cosmos blockchain.",
+        "Set up blockchain nodes and monitoring tools with GCP, Terraform, something like that.",
         "Used Jira for bug tracking and feature development tracking. Used Confluence for documentation",
       ],
     },
@@ -39,11 +39,11 @@ export function Experience() {
       role: "Full Stack Developer",
       period: "2019 - 2020",
       highlights: [
-        "Built and maintained a dashboard billing page that illustrates the usage of Unity game services with sophisticated graphs and charts.",
-        "Architected and built back-end APIs to monitor usage events with ETL tools and trigger notifications at certain conditions.",
-        "Developed a Web 3.0 real-time bidding auction app that helps artists to auction their art.",
-        "Created the API and UI of a media hosting app from scratch to help artists easily manage their art and collections.",
-        "Participated in smart contract development."
+        "Implemented a key-value store interface in Go with a Redis client. This library will be used in all new Go projects that utilize key-value databases.",
+        "Wrote components with Vue.js, and SCSS. I also wrote back-end routing using PHP Symfony.",
+        "Converted an old PHP site to Django-Python.",
+        "Implemented complex UI components using React, Next.js, and Vue.js.",
+        "Developed a full stack application with Next.js, Node.js, Python, and PostgreSQL on AWS."
       ],
     },
     {
@@ -51,10 +51,10 @@ export function Experience() {
       role: "Full Stack Developer",
       period: "2018 - 2019",
       highlights: [
-        "Built automation solutions for data ETL, logins, form submission, and other repetitive actions for 100+ different sources.",
-        "Built dashboards for clients to interact with and view the progress of large-scale data scraping and API consumption tasks.",
-        "Reverse-engineered hundreds of hidden website APIs to extract desired data for clients.",
-        "Worked as a full-stack developer in UI components as well as back-end and API endpoints.",
+        "Created and maintained features for a React- and Node.js-based B2C financial application.",
+        "Architected and built back-end APIs to monitor usage events with ETL tools and trigger notifications at certain conditions.",
+        "Delivered daily lessons on full-stack web development using HTTP, HTML, CSS, JavaScript, Ruby on Rails, and SQL to prepare students for careers in software development.",
+        "Created a user storage application using React and Node.js; implemented Express server to use as middleware to third-party services.",
       ],
     },
   ];
