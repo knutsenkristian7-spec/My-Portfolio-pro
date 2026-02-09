@@ -31,7 +31,7 @@ export function Skills() {
     {
       title: "Other Skills",
       icon: <Code className="w-6 h-6" />,
-      skills: ["Git /​ Version Control", "Jira", "Confluence", "Automation", "System Design & Architecture", "Performance Optimization", "Security-aware Smart Contract Development"],
+      skills: ["Git /​ Version Control", "Jira", "Confluence", "Automation"],
       gradient: "from-green-500/20 to-emerald-500/20",
     },
   ];
