@@ -19,13 +19,13 @@ export function Skills() {
     {
       title: "Backend",
       icon: <Server className="w-6 h-6" />,
-      skills: ["Node.js", "Golang", "Python", "Nest.js", "Django"],
+      skills: ["Node.js", "RESTful API Development", "Python", "Backend Architecture", "ETL Pipelines & Data Processing", "Event Monitoring & Notification Systems"],
       gradient: "from-purple-500/20 to-pink-500/20",
     },
     {
-      title: "Blockchain",
+      title: "Blockchain and Web3",
       icon: <Blocks className="w-6 h-6" />,
-      skills: ["Solidity", "CosmWasm", "Rust", "CosmJS", "Hardhat"],
+      skills: ["Solidity", "Ethereum Smart Contracts", "NFT Marketplaces", "Web3.js", "DAO Platforms", "ABI-based Contract Interaction", "Bittensor (Subnet participation)"],
       gradient: "from-blue-500/20 to-cyan-500/20",
     },
     {
