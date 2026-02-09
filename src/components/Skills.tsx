@@ -29,9 +29,21 @@ export function Skills() {
       gradient: "from-blue-500/20 to-cyan-500/20",
     },
     {
-      title: "Databases",
+      title: "AI and Automation",
       icon: <Database className="w-6 h-6" />,
-      skills: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Prisma"],
+      skills: ["Multi-agent AI System", "AI Model & Agent Integration", "Intelligent Task Routing", "Automation Bots", " Workflow Optimization", "Document & Chat Integration"],
+      gradient: "from-green-500/20 to-emerald-500/20",
+    },
+    {
+      title: "Date and Visualization",
+      icon: <Code className="w-6 h-6" />,
+      skills: ["Dashboards & Analytics", "Charts & Graphs", "Data Scraping", "Reverse Engineering APIs"],
+      gradient: "from-green-500/20 to-emerald-500/20",
+    },
+    {
+      title: "Other Skills",
+      icon: <Code className="w-6 h-6" />,
+      skills: ["Git /​ Version Control", "Jira", "Confluence", "Remote Team Collaboration", "API Reverse Engineering", "Automation & Web Scraping", "System Design & Architecture", "Performance Optimization", "Security-aware Smart Contract Development"],
       gradient: "from-green-500/20 to-emerald-500/20",
     },
   ];
