@@ -13,7 +13,7 @@ export function Experience() {
     {
       company: "Zuvu",
       role: "Full Stack & Blockchain Developer",
-      period: "2023 - Present",
+      period: "2024 - 2025",
       highlights: [
         "Developed zuvu.ai that provides access to 250+ AI models and agents, featuring multi-agent squads, intelligent task routing, real-time collaborative chat, and document integration to streamline workflows and reduce costs.",
         "Developed the websites makeitaquote, makeitasticker, and socialtensor using React.js and Tailwind CSS.",
@@ -25,12 +25,13 @@ export function Experience() {
     {
       company: "TechFye",
       role: "Blockchain Developer",
-      period: "2022 - 2023",
+      period: "2021 - 2024",
       highlights: [
-        "Developed and audited Solidity smart contracts for DeFi protocols",
-        "Created NFT marketplace with minting, trading, and royalty distribution",
-        "Integrated Web3 wallet connections and transaction management",
-        "Optimized gas efficiency reducing transaction costs by 40%",
+        "Contributed to the smart contract Solidity smart contract behind the NFT marketplace featured createNFT, listNFT, cancelListing, addToCart, burn, and other relevant functions.",
+        "Architected feature-rich gaming, rewards, and a pack NFT project for a major sports league. Developed a rewards staking feature for our NFT stack.",
+        "Created a generic smart contracts viewer feature on the Commonwealth DAO Platform. The feature allowed users to add and view any contract on the Ethereum Networks using just the address and ABI. It also allowed users to call the contract functions.",
+        "Maintained and developed upon the entire Solidity stack.",
+        "Used Jira for bug tracking and feature development tracking. Used Confluence for documentation",
       ],
     },
     {
