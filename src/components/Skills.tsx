@@ -13,37 +13,25 @@ export function Skills() {
     {
       title: "Frontend",
       icon: <Code className="w-6 h-6" />,
-      skills: ["React", "Next.js", "Tailwind CSS", "TypeScript", "Web3.js"],
+      skills: ["React", "Next.js", "Vue.js", "TypeScript", "SCSS"],
       gradient: "from-cyan-500/20 to-blue-500/20",
     },
     {
       title: "Backend",
       icon: <Server className="w-6 h-6" />,
-      skills: ["Node.js", "RESTful API Development", "Python", "Backend Architecture", "ETL Pipelines & Data Processing", "Event Monitoring & Notification Systems"],
+      skills: ["Node.js", "Golang", "Python", "JavaScript", "Rust", "PHP", "PostgreSQL"],
       gradient: "from-purple-500/20 to-pink-500/20",
     },
     {
       title: "Blockchain and Web3",
       icon: <Blocks className="w-6 h-6" />,
-      skills: ["Solidity", "Ethereum Smart Contracts", "NFT Marketplaces", "Web3.js", "DAO Platforms", "ABI-based Contract Interaction", "Bittensor (Subnet participation)"],
+      skills: ["Solidity", "Ethereum", "Rust", "Solana", "web3", "smart contract"],
       gradient: "from-blue-500/20 to-cyan-500/20",
-    },
-    {
-      title: "AI and Automation",
-      icon: <Database className="w-6 h-6" />,
-      skills: ["Multi-agent AI System", "AI Model & Agent Integration", "Intelligent Task Routing", "Automation Bots", " Workflow Optimization", "Document & Chat Integration"],
-      gradient: "from-green-500/20 to-emerald-500/20",
-    },
-    {
-      title: "Date and Visualization",
-      icon: <Code className="w-6 h-6" />,
-      skills: ["Dashboards & Analytics", "Charts & Graphs", "Data Scraping", "Reverse Engineering APIs"],
-      gradient: "from-green-500/20 to-emerald-500/20",
     },
     {
       title: "Other Skills",
       icon: <Code className="w-6 h-6" />,
-      skills: ["Git /​ Version Control", "Jira", "Confluence", "Remote Team Collaboration", "API Reverse Engineering", "Automation & Web Scraping", "System Design & Architecture", "Performance Optimization", "Security-aware Smart Contract Development"],
+      skills: ["Git /​ Version Control", "Jira", "Confluence", "Automation", "System Design & Architecture", "Performance Optimization", "Security-aware Smart Contract Development"],
       gradient: "from-green-500/20 to-emerald-500/20",
     },
   ];
