@@ -84,7 +84,7 @@ export function Projects() {
     {
       title: "Reverse-engineering",
       description: "Reverse-engineered hundreds of hidden website APIs to extract desired data for clients.",
-      tags: ["Blockchain", "CosmWasm", "Rust", "DeFi"],
+      tags: ["Blockchain",  "Rust", "DeFi"],
       link: "https://portswigger.net/burp",
       gradient: "from-blue-500/20 to-cyan-500/20",
     },
