@@ -89,7 +89,7 @@ export function Projects() {
       gradient: "from-blue-500/20 to-cyan-500/20",
     },
     {
-      title: "",
+      title: "Thought of the day",
       description: "Worked as a full-stack developer in UI components as well as back-end and API endpoints.",
       tags: ["Django", "HTML/CSS", "JavaScript", "Node.js", "PHP"],
       link: "https://www.topchretien.com",
