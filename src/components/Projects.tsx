@@ -70,7 +70,7 @@ export function Projects() {
     {
       title: "Automation Solutions",
       description: "Built automation solutions for data ETL, logins, form submission, and other repetitive actions for 100+ different sources.",
-      tags: ["Web3", "Blockchain", "Solidity", "React"],
+      tags: ["Blockchain", "Web3", "python", "React"],
       link: "https://zapier.com/",
       gradient: "from-purple-500/20 to-pink-500/20",
     },
