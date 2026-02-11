@@ -49,7 +49,7 @@ export function Projects() {
     {
       title: "Back-end API",
       description: "Architected and built back-end APIs to monitor usage events with ETL tools and trigger notifications at certain conditions.",
-      tags: [ "React"],
+      tags: [ "React", "Next.js", "TailwindCSS"],
       link: "https://retool.com/templates/etl-monitoring-dashboard",
       gradient: "from-purple-500/20 to-pink-500/20",
     },
