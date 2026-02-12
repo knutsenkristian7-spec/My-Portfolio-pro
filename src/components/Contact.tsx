@@ -33,7 +33,7 @@ export function Contact() {
                   Let's collaborate
                 </h3>
                 <p className="text-white/60 leading-relaxed mb-8">
-                  I'm always interested in hearing about new projects, opportunities, or just
+                  I am always interested in hearing about new projects, opportunities, or just
                   connecting with fellow developers and innovators in the Web3 space.
                 </p>
               </div>
