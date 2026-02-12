@@ -52,7 +52,7 @@ export function Navigation() {
             className="text-2xl bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent"
             style={{ fontWeight: 700 }}
           >
-            AA
+            Portfolio
           </button>
 
           {/* Desktop Navigation */}
