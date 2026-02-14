@@ -42,7 +42,7 @@ export function Projects() {
     {
       title: "Django CMS Live Demo",
       description: "Converted an old PHP site to Django-Python.",
-      tags: ["Python", "Django", "JaveScript", "HTML/CSS"],
+      tags: ["Python", "Django", "JaveScript"],
       link: "https://www.django-cms.org/en/django-cms-demo/",
       gradient: "from-purple-500/20 to-pink-500/20",
     },
