@@ -63,7 +63,7 @@ export function Projects() {
     {
       title: "Artist",
       description: "Created the API and UI of a media hosting app from scratch to help artists easily manage their art and collections.",
-      tags: ["Web3", "Blockchain", "Solidity", "React"],
+      tags: ["Web3", "Solidity", "React"],
       link: "https://www.artstation.com/",
       gradient: "from-purple-500/20 to-pink-500/20",
     },
