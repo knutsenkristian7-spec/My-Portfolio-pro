@@ -77,7 +77,7 @@ export function Projects() {
     {
       title: "Dashboards for Clients",
       description: "Built dashboards for clients to interact with and view the progress of large-scale data scraping and API consumption tasks.",
-      tags: ["Blockchain", "CosmWasm", "Rust", "DeFi"],
+      tags: ["CosmWasm", "Rust", "DeFi"],
       link: "https://www.elastic.co/kibana",
       gradient: "from-blue-500/20 to-cyan-500/20",
     },
